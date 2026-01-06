@@ -1,4 +1,4 @@
 # apnacollege-demo
-this is git repository.
+This is git repository.
 <br>
-author- priyanshu datwalia
+Author- Priyanshu Datwalia
